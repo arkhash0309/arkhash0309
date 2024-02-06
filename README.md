@@ -7,9 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Advanced Mathematics**
+
+- 👨‍💻 All of my projects are available at [https://github.com/arkhash0309](https://github.com/arkhash0309)
+
 - 📝 I regularly write articles on [https://medium.com/@arkhash.20221213](https://medium.com/@arkhash.20221213)
 
+- 💬 Ask me about **Computational Mathematics, Python**
+
 - 📫 How to reach me **arkhash.0309@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAFzTYBlMsE/ebYrY4kTqX4KLDAY4bqqXQ/edit?utm_content=DAFzTYBlMsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFzTYBlMsE/ebYrY4kTqX4KLDAY4bqqXQ/edit?utm_content=DAFzTYBlMsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkhash0309&show_icons=true&locale=en" alt="arkhash0309" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkhash0309&" alt="arkhash0309" /></p>
-
-
-
