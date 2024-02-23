@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkhash0309&show_icons=true&cache_seconds=1900&locale=en&layout=compact" alt="arkhash0309" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkhash0309&show_icons=true&locale=en" alt="arkhash0309" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkhash0309&show_icons=true&cache_seconds=1810&locale=en" alt="arkhash0309" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkhash0309&" alt="arkhash0309" /></p>
