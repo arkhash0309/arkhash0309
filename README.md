@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aadhavan Arkhash Saravanakumar</h1>
 <h3 align="center">A passionate undergraduate student pursuing a degree in Artificial Intelligence and Data Science.</h3>
-<img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<!-- <img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800" margin-bottom: 20px>
+<br/><br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkhash0309" alt="arkhash0309" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
